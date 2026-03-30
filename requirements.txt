@@ -1,0 +1,6 @@
+# Dependencies
+requests
+beautifulsoup4
+pandas
+openpyxl
+APScheduler
